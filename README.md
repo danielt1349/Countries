@@ -1,7 +1,7 @@
 # Countries
 
 - Primera opción con imagen de Mongo:
-1. source/bin/activate (Activar entorno virtual python e instalar paquetes) 
+1. source/bin/activate (Activar entorno virtual con virtualenv python e instalar paquetes) 
 requests
 pandas
 pymongo
