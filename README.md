@@ -1,7 +1,8 @@
 # Countries
 
 - Primera opción con imagen de Mongo:
-1. source/bin/activate (Activar entorno virtual e instalar paquetes) requests
+1. source/bin/activate (Activar entorno virtual python e instalar paquetes) 
+requests
 pandas
 pymongo
 2. docker run -d -p 27017:27017 --name m1 mongo
